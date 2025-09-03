@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Buddala Sai Veerendra
 
-<!--
-**Veerendra07-hub/Veerendra07-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **About Me**
+- 🎓 Currently pursuing **[Your Degree / Major]**
+- 🌱 Learning **[Technologies or Topics you're focusing on]**
+- 🚀 Interested in **Web Development | AI/ML | Open Source | etc.**
+- 📫 Reach me at: **[Your Email]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Python, JavaScript, Java  
+- **Frontend:** HTML, CSS, React, Tailwind  
+- **Backend:** Node.js, Express, Django  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Docker, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
+
+---
+
+⭐️ From [YOUR NAME](https://github.com/YOUR_GITHUB_USERNAME)
