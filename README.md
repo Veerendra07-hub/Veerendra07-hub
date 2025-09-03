@@ -49,4 +49,4 @@
 
 ---
 
-⭐️ From [Buddala Sai Veerendra](https://github.com/buddala-saiveerendra)
+⭐️ From [Buddala Sai Veerendra](https://github.com/Veerendra07-hub)
