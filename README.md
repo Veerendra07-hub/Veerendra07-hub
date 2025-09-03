@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Buddala Sai Veerendra
 
-💻 **About Me**
-- 🎓 Currently pursuing **[Your Degree / Major]**
-- 🌱 Learning **[Technologies or Topics you're focusing on]**
+💻 **About Me*
+- 🎓 Currently pursuing btech at **Indian institute of information technology design and manufacturing kurnool**
+- 🌱 Learning **Data structures and algorithms**
 - 🚀 Interested in **Web Development | AI/ML | Open Source | etc.**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **bsveerendra103@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Python, JavaScript, Java  
-- **Frontend:** HTML, CSS, React, Tailwind  
-- **Backend:** Node.js, Express, Django  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, Docker, VS Code  
+- **Languages:** C, C++, Python, JavaScript
+- **Frontend:** HTML, CSS 
+- **Backend:** Node.js
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
