@@ -45,4 +45,4 @@
 
 ---
 
-⭐️ From [Buddala Sai Veerendra](https://github.com/Veerendra07-hub)
+⭐️ From [Buddala Sai Veerendra](https://github.com/Saiveerendra07)
